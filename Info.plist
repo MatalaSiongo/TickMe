@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleGetInfoString</key>
+	<string></string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>Google</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.982866638342-v3deanklkvi48kb841f1h6jfjp83n4jc</string>
+			</array>
+		</dict>
+	</array>
+	<key>Privacy - Notification Usage Description</key>
+	<string>TickMe sends notifications to remind you about tasks, schedules, and important activities.
+</string>
+	<key>Privacy - Photo Library Usage Description </key>
+	<string>TickMe allows you to choose a profile picture from your photo library.
+</string>
+	<key>UILaunchScreen</key>
+	<dict>
+		<key>UIColorName</key>
+		<string>BackgroundColor</string>
+		<key>UIImageName</key>
+		<string>LaunchScreen</string>
+		<key>UILaunchScreen</key>
+		<dict/>
+	</dict>
+</dict>
+</plist>
